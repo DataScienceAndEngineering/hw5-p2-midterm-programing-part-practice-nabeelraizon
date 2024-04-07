@@ -18,5 +18,5 @@ Steps:
 2. Remove all the explanations in the notebook (delete all the markdown cells)
 3. Create a new markdown file or notebook and read through the code, taking notes on what each line does. Your notes should be in your own words and refer to any specific code. For example, you might say this code loads data from the URL "http:www.example.com/data" and saves it to the file "data.csv". Or you might say this code uses a TensorFlow function to create time series datasets for training, validation, and testing with a window size of 20.
 4. Close the original notebook and do something else for a while (3 hours, 1 day, etc.)
-5. Open your notes and without looking at the original notebook and just using the API documentation, recreate the notebook. Only consult the original notebook in an emergency if you get stuck.
+5. Open your notes and without looking at the original notebook and just using the API documentation, recreate the notebook. Only consult the original Notebook in an emergency if you get stuck.
 6. Submit your notes, the original notebook, and your recreated notebook in GitHub classroom.
